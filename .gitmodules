@@ -1,0 +1,18 @@
+[submodule "beup-task"]
+	path = beup-task
+	url = https://github.com/engmoamenragab/beup-task
+[submodule "ecommerce-app"]
+	path = ecommerce-app
+	url = https://github.com/engmoamenragab/ecommerce-app
+[submodule "football-news"]
+	path = football-news
+	url = https://github.com/engmoamenragab/football-news
+[submodule "my-first-angular-app"]
+	path = my-first-angular-app
+	url = https://github.com/engmoamenragab/my-first-angular-app
+[submodule "start-angular"]
+	path = start-angular
+	url = https://github.com/engmoamenragab/start-angular
+[submodule "world-news"]
+	path = world-news
+	url = https://github.com/engmoamenragab/world-news
